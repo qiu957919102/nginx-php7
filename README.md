@@ -77,6 +77,6 @@ You can see the **[wiki](https://github.com/skiy-dockerfile/nginx-php7/wiki/Ques
 [Legion](https://www.dwhd.org)  
 
 ## Author
-Author: Skiychan    
-Email:  dev@skiy.net       
-Link:   https://www.skiy.net
+Author: Qiuliang    
+Email:  yinqiuliang@huimin100.cn       
+Link:   http://private.com
